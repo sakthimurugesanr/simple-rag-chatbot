@@ -1,0 +1,16 @@
+.venv/
+.test-deps/
+.lint-deps/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.pytest-tmp*/
+.ruff_cache/
+*.egg-info/
+.env
+.env.*
+!.env.example
+data/*
+!data/.gitkeep
+output/
+*.log
